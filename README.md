@@ -358,51 +358,51 @@ First Joint Meeting of the Korean and American Mathematical Societies
 
 # References
 
-  ---------------------------------------------------- --
   **Clifford Bergman** `*`                          
   Professor of Mathematics                             
   Iowa State University                                
   396 Carver Hall                                      
   Ames, Iowa 50011                                     
-  <cbergman@iastate.edu>                                 
-  ---------------------------------------------------- --
+  [cbergman at iastate dot edu](mailto:cbergman@iastate.edu)       
 
-  -------------------------------------------------------------------------------- --
+  ----------------------------------------------------
+
   **Venanzio Capretta**                                                            
   Assistant Professor of Computer Science                                          
   University of Nottingham                                                         
   Room B83 Computer Science                                                        
   Jubilee Campus, Wollaton Road                                                    
   Nottingham NG8 1BB UK                                                            
-  <Venanzio.Capretta@nottingham.ac.uk>                                             
-  -------------------------------------------------------------------------------- --
+  [Venanzio dot Capretta at nottingham dot ac dot uk](mailto:Venanzio.Capretta@nottingham.ac.uk)                                             
 
-  ------------------------------------------------------ --
+  ------------------------------------------------------
+
   **Ralph Freese**                                       
   Professor of Mathematics                               
   University of Hawaii                                   
   2565 McCarthy Mall                                     
   Honolulu, HI 96822                                     
-  <ralph@math.hawaii.edu>                                
-  ------------------------------------------------------ --
+  [ralph at math dot hawaii dot edu](mailto:ralph@math.hawaii.edu)       
 
-  ------------------------------------------------ --
+  ------------------------------------------------
+
   **Peter Jipsen**                                 
   Professor of Mathematics                         
   Chapman University                               
   545 W. Palm Ave                                  
   Orange, CA 92866                                 
-  <jipsen@chapman.edu>                              
-  ------------------------------------------------ --
+  [jipsen at chapman dot edu](mailto:jipsen@chapman.edu)      
 
-  ---------------------------------------------------------- --
+  ----------------------------------------------------------
+
   **Peter Mayr** `*`                                      
   Assistant Professor of Mathematics                         
   University of Colorado, Boulder                            
   2300 Colorado Avenue                                       
   Boulder, CO 80309                                          
-  <peter.mayr@colorado.edu>                                  
-  ---------------------------------------------------------- --
+  [peter mayr at colorado dot edu](mailto:peter.mayr@colorado.edu)                                  
+
+  ----------------------------------------------------------
 
 `*` teaching reference
 
